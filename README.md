@@ -24,6 +24,10 @@ Además agregar y mantener una lista de libros diversos.
  - ![Inicio](https://github.com/user-attachments/assets/81cb0515-0ada-47fe-a254-51ee9fbd6d0d)
  - ![iniciodesesion](https://github.com/user-attachments/assets/cd8b5163-8724-47cb-b37c-544a08dfce93)
  - ![iniciodesesion2](https://github.com/user-attachments/assets/84ce3f55-e43a-4635-ad82-0627bf86e286)
+ - ![imagen](https://github.com/user-attachments/assets/7f300b5c-701b-47d0-bf0b-dd2ee523fb0d)
+ - ![imagen](https://github.com/user-attachments/assets/ac264428-bd0e-4885-b1f1-2b36ad8a93bc)
+ - ![imagen](https://github.com/user-attachments/assets/d4890c02-e40f-4f55-aa39-760a225ec14b)
+ - ![imagen](https://github.com/user-attachments/assets/19f6955c-dd28-4fc3-aa75-03389128d582)
 
 # Instrucciones
 Para comenzar, ya se debe de tener instalado Visual Basic 6 así como SQL server.
